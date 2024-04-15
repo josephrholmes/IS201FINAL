@@ -1,0 +1,58 @@
+.images{
+width: 100% !important;
+margin-bottom: 20px;
+}
+
+.images-2{
+width:75% !important;
+margin-bottom: 20px;
+}
+.images-3{
+width: 120% !important;
+}
+.book-bom{
+width: 52.55% !important;
+}
+.book-screwtape{
+    width: 55.5%;
+}
+.book-habits{
+    width: 58.5%;
+    margin-left: 10px;
+}
+.book-air{
+    width: 57.5%;
+    margin-left: 30px;
+}
+.movie_spacing{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+.movie_box{
+    margin-left: 50% !important;
+    margin-right: 50px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+.top-songs{
+    margin-top: 75px;
+}
+.footer-text{
+    color: black;
+}
+.adjust{
+    position: relative;
+    top: -25px;
+}
+.adjust-2{
+    position: relative;
+    bottom:-29px;
+}
+.adjust-3{
+    position: relative;
+
+}
+
+ 

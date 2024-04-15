@@ -1,0 +1,109 @@
+/* resume.html */
+.resume-body{
+    font-family: var(--bs-body-font-family);
+}
+.name-resume{
+    text-align: center;
+    margin-top: 30px;
+}
+.sub{
+    text-align: center;
+    position: relative;
+    top:-30px;
+}
+.resume-category{
+    margin-left: 250px;
+}
+ol{
+    margin-left: 250px;
+}
+.marginal{
+    margin-left: 400px;
+}
+
+.profile-pic{
+    position: relative;
+    right: -1150px;
+    top: -100px;
+    width: 12%;
+}
+.content-resume{
+    position: relative;
+    top:-190px;
+    padding-left: 100px;
+    padding-right: 200px;
+}
+.courses{
+    text-decoration: underline;
+}
+.employer{
+    font-weight: bold;
+}
+.job{
+    font-style: italic;
+}
+.return{
+    position: relative;
+    top: -190px;
+    left: -165px;
+}
+.circular-border {
+    width: 200px; /* Adjust the width and height as needed */
+    height: 200px; /* Adjust the width and height as needed */
+    border-radius: 50%; /* Make the border radius 50% to create a circle */
+    overflow: hidden; /* Hide any overflowing content */
+}
+
+.circular-border .profile-pic {
+    width: 100%; /* Ensure the image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure the image is displayed as a block element */
+}
+.button{
+    margin-bottom: 15px;
+}
+    
+/* media.html */
+.media-body{
+    font-family: var(--bs-body-font-family);
+    background: url("../assets/img/gradient_1.jpg");
+    background-position: center center;
+    background-repeat: repeat-y;
+    background-size: cover;
+    overflow-x: hidden;
+}
+.media-title{
+    text-align: center;
+    margin-top: 20px
+    ;
+}
+.video-title{
+    text-align: center;
+    color: grey;
+}
+.video-yt{
+    margin-left: 10%;
+}
+.media-return{
+    position: relative;
+    bottom: -10px;
+    right: -35px;
+}
+.footer-text{
+    font-style: italic;
+}
+
+.spacing-1{
+    margin-top: 50px;
+}
+.tableau-container {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden; /* This ensures that any content overflowing the div will be hidden */
+    align-items: center;
+    position: relative; 
+    margin-left: 400px;
+}
+.link{
+    margin-left: 50px;
+}
